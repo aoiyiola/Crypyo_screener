@@ -1,0 +1,9 @@
+ccxt
+pandas
+requests
+schedule
+matplotlib
+huggingface_api: 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" - screener_app
+huggingface_api = "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"
+BOT_TOKEN = "7733517766:AAH2Y1vf0pGPKMuxTKVtIUmrGpKCRzeH3b0"
+CHAT_ID = "-1002755066630"
