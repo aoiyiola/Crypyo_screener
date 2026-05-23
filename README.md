@@ -27,3 +27,15 @@ A signal is triggered when:
 
 ```bash
 pip install -r requirements.txt
+```
+
+## Environment variables
+
+Create a `.env` file in the project root (copy `.env.example`) and set your sensitive keys there. Example:
+
+```
+TELEGRAM_TOKEN=your_telegram_bot_token
+CHAT_ID=your_chat_id
+```
+
+Do not commit your `.env` file to version control.
